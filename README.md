@@ -1,1 +1,1 @@
-# measured-blog
+# blog.measured.im
